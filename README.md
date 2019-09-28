@@ -3,7 +3,7 @@
 Happy Hacktoberfest! Hacktoberfest is back :fire: 
 HacktoberProfile is a list of profiles of Hacktoberfest 2019 participants.
 
-Link to webpage: [https://srinibasbiswal.github.io/HacktoberProfile/](https://srinibasbiswal.github.io/HacktoberProfile/s)
+Link to webpage: [https://srinibasbiswal.github.io/HacktoberProfile/](https://srinibasbiswal.github.io/HacktoberProfile/)
 
 ## Contributing
 
