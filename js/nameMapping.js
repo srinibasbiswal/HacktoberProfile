@@ -1,5 +1,5 @@
 window.onload = function() {
-    var userData = this.userInfo;
+    var userData = this.profiles;
     userData.forEach(element => {
         var name,place,github;
         name = element.name;
