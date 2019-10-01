@@ -45,9 +45,13 @@ var profiles = [
         "github" : "PandiyanCool"
     },
     {
+        "name" : "Laura Pinto",
+        "place" : "Guimarães, Portugal",
+        "github" : "lauraalpinto"
+    },
         "name" : "Fredrik Engstrand",
         "place" : "Uppsala, Sweden",
         "github" : "Frewacom"
-    }
+    },
 ]
 
