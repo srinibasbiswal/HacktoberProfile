@@ -10,6 +10,11 @@ var profiles = [
         "github" : "csleong98"
     },  
     {
+        "name" : "Natalie Puls",
+        "place" : "Oldenburg, Germany",
+        "github" : "nataliepls"
+    },
+    {
         "name" : "Aisha Aqeel",
         "place" : "Karachi, Pakistan",
         "github" : "aishaaqeel"
