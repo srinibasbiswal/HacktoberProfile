@@ -29,6 +29,20 @@ var profiles = [
         "place" : "Kanpur, India",
         "github" : "ts-1"
     },
-  
+    {
+        "name" : "Juhani AHola",
+        "place" : "Helsinki, Finland",
+        "github" : "aholajuhani"
+    },
+    {
+        "name" : "Himanshu Gupta",
+        "place" : "Noida, India",
+        "github" : "meHimanshu"
+    },
+    {
+        "name" : "Pandiyan Murugan",
+        "place" : "Tamil Nadu, India",
+        "github" : "PandiyanCool"
+    }
 ]
 
