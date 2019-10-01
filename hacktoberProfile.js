@@ -34,11 +34,10 @@ var profiles = [
         "place" : "Noida, India",
         "github" : "meHimanshu"
     },
-    ,
     {
         "name" : "Dirk Soentjens",
         "place" : "Düsseldorf, Germany",
         "github" : "tampert"
-    }
+    },
 ]
 
