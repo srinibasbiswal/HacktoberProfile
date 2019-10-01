@@ -59,5 +59,10 @@ var profiles = [
         "place" : "Uppsala, Sweden",
         "github" : "Frewacom"
     },
+    {
+        "name" : "Mateo Hoxha",
+        "place" : "Tirane, Albania",
+        "github" : "mateohoxha"
+    },
 ]
 
