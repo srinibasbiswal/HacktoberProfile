@@ -15,4 +15,9 @@ var profiles = [
         "place" : "Gwalior, India",
         "github" : "saurabh1515"
     },
+    {
+        "name" : "Trapta Singh",
+        "place" : "Kanpur, India",
+        "github" : "ts-1"
+    }
 ]
