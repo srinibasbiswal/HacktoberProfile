@@ -20,6 +20,11 @@ var profiles = [
         "github" : "saurabh1515"
     },
     {
+        "name" : "runtimeTerror",
+        "place" : "Kharagpur, India",
+        "github" : "hemanth-hk"
+    },
+    {
         "name" : "Trapta Singh",
         "place" : "Kanpur, India",
         "github" : "ts-1"
@@ -39,7 +44,22 @@ var profiles = [
         "place" : "Tamil Nadu, India",
         "github" : "PandiyanCool"
     },
-	{
+    {
+        "name" : "Rishabh Choudhary",
+        "place" : "Ranchi, India",
+        "github" : "RisavChd24"
+    },
+    {
+        "name" : "Laura Pinto",
+        "place" : "Guimarães, Portugal",
+        "github" : "lauraalpinto"
+    },
+    {
+        "name" : "Fredrik Engstrand",
+        "place" : "Uppsala, Sweden",
+        "github" : "Frewacom"
+    },	
+    {
         "name" : "Tharindu Rangika",
         "place" : "Galle, Sri Lanka",
         "github" : "TharinduMD"
