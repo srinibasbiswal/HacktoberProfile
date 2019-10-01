@@ -20,6 +20,11 @@ var profiles = [
         "github" : "saurabh1515"
     },
     {
+        "name" : "runtimeTerror",
+        "place" : "Kharagpur, India",
+        "github" : "hemanth-hk"
+    },
+    {
         "name" : "Trapta Singh",
         "place" : "Kanpur, India",
         "github" : "ts-1"
