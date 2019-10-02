@@ -29,6 +29,10 @@ var profiles = [
         "place": "Helsinki, Finland",
         "github": "aholajuhani"
     },
+        "name" : "runtimeTerror",
+        "place" : "Kharagpur, India",
+        "github" : "hemanth-hk"
+    },
     {
         "name": "Himanshu Gupta",
         "place": "Noida, India",
@@ -43,6 +47,25 @@ var profiles = [
         "name": "HariHaran Subramanian",
         "place": "Tamil Nadu, India",
         "github": "gethari"
-    }
+    },
+    {
+        "name" : "Bolaji Ogidan",
+        "place" : "Nigeria, Lagos",
+        "github" : "Bolajiscott"
+    },
+        "name" : "Rishabh Choudhary",
+        "place" : "Ranchi, India",
+        "github" : "RisavChd24"
+    },
+    {
+        "name" : "Laura Pinto",
+        "place" : "Guimarães, Portugal",
+        "github" : "lauraalpinto"
+    },
+    {
+        "name" : "Fredrik Engstrand",
+        "place" : "Uppsala, Sweden",
+        "github" : "Frewacom"
+    },
 ]
 
