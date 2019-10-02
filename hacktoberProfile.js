@@ -174,6 +174,11 @@ var profiles = [
         "github" : "Evie-Skinner18"
     },
     {
+
+        "name" : "Hoang Nguyen",
+        "place" : "Ho Chi Minh, VN",
+        "github" : "phuonghoang713"
+    },
         "name" : "Sergi Oca",
         "place" : "Barcelona, Spain",
         "github" : "SergiOca87"
