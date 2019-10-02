@@ -49,6 +49,11 @@ var profiles = [
         "github": "gethari"
     },
     {
+        "name" : "Rachel Johnson",
+        "place" : "Sydney, Australia",
+        "github" : "rachelktyjohnson"
+    },
+    {
         "name" : "Bolaji Ogidan",
         "place" : "Nigeria, Lagos",
         "github" : "Bolajiscott"
