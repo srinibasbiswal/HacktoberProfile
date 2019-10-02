@@ -1,13 +1,23 @@
 var profiles = [
     {
-        "name": "Srinibas Biswal",
-        "place": "Bhubaneswar, India",
-        "github": "srinibasbiswal"
+        "name" : "Srinibas Biswal",
+        "place" : "Bhubaneswar, India",
+        "github" : "srinibasbiswal"
+    },
+    {
+        "name" : "Chee Seng Leong",
+        "place" : "Kuala Lumpur, Malaysia",
+        "github" : "csleong98"
     },
     {
         "name": "Chee Seng Leong",
         "place": "Kuala Lumpur, Malaysia",
         "github": "csleong98"
+    },
+    {
+        "name": "Kee Magbanua",
+        "place": "Bacolod, Philippines",
+        "github": "samcode23"
     },
     {
         "name": "Aisha Aqeel",
@@ -29,6 +39,7 @@ var profiles = [
         "place": "Helsinki, Finland",
         "github": "aholajuhani"
     },
+    {
         "name" : "runtimeTerror",
         "place" : "Kharagpur, India",
         "github" : "hemanth-hk"
@@ -63,6 +74,7 @@ var profiles = [
         "place" : "Nigeria, Lagos",
         "github" : "Bolajiscott"
     },
+    {
         "name" : "Rishabh Choudhary",
         "place" : "Ranchi, India",
         "github" : "RisavChd24"
@@ -76,6 +88,11 @@ var profiles = [
         "name": "Alan Saputra Lengkoan",
         "place": "Makassar, Indonesia",
         "github": "alanlengkoan"
+    },
+    {
+        "name": "Vikum Sanjeewa",
+        "place": "Kurunegala, Srilanka",
+        "github": "vikumkbv"
     },
     {
         "name" : "Fredrik Engstrand",
@@ -157,6 +174,11 @@ var profiles = [
         "github" : "Evie-Skinner18"
     },
     {
+
+        "name" : "Hoang Nguyen",
+        "place" : "Ho Chi Minh, VN",
+        "github" : "phuonghoang713"
+    },
         "name" : "Sergi Oca",
         "place" : "Barcelona, Spain",
         "github" : "SergiOca87"
@@ -195,6 +217,35 @@ var profiles = [
         "name" : "Felipe Bosi",
         "place" : "Vila Velha, Brazil",
         "github" : "bosiarquitetura"
+    },
+    {
+        "name" : "Hari Prasetia",
+        "place" : "Indonesia, Jakarta",
+        "github" : "hariprasetia"
+    },
+    {
+        "name" : "Victor Carli",
+        "place" : "Araraquara, Brazil",
+        "github" : "ocarlic"
+    },
+    {   "name" : "AJEET",
+        "place" : "VARANASI, INDIA",
+        "github" : "ajeet707"
+    },
+    {
+        "name" : "Anna Lewis",
+        "place" : "Denver, United States",
+        "github" : "annnfrann"
+    },
+    {
+        "name" : "Fahad Jamil",
+        "place" : "Uppsala, Sweden",
+        "github" : "McFrappe"
+    },
+    {
+        "name" : "Eduardo Gomes",
+        "place" : "Brasília, Brazil",
+        "github" : "eduqg"
     },
     {
         "name" : "Akinkunmi Olunloye",
