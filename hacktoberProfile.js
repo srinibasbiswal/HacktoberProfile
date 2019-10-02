@@ -205,5 +205,10 @@ var profiles = [
         "name" : "Hari Prasetia",
         "place" : "Indonesia, Jakarta",
         "github" : "hariprasetia"
-    }
+    },
+    {
+        "name" : "Victor Carli",
+        "place" : "Araraquara, Brazil",
+        "github" : "ocarlic"
+    },
 ]
