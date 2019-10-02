@@ -171,4 +171,9 @@ var profiles = [
         "place" : "Izmir, Turkey",
         "github" : "p2uyar"
     },
+    {
+        "name" : "Hatice Erdağı",
+        "place" : "İstanbul, Turkey",
+        "github" : "haticeerdagi"
+    },
 ]
