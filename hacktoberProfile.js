@@ -190,5 +190,10 @@ var profiles = [
         "name" : "Lindsey Wild",
         "place" : "Pennsylvania, USA",
         "github" : "lindseywild"
+    },  
+    {
+        "name" : "Felipe Bosi",
+        "place" : "Vila Velha, Brazil",
+        "github" : "bosiarquitetura"
     },
 ]
