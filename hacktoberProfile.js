@@ -249,4 +249,8 @@ var profiles = [
         "place" : "New York, USA",
         "github" : "AnnaYWu"
     },
-]
+    {
+        "name" : "Nathan Lim",
+        "place" : "New Jersey, USA",
+        "github" : "LoserCringe"
+    }
