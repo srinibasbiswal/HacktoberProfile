@@ -88,13 +88,19 @@ var profiles = [
         "github" : "PandiyanCool"
     },
     {
+        "name": "Eric Bryant",
+        "place": "Virginia, USA",
+        "github": "shmickle"
+    },
+    {
+        "name" : "Olajide Joshua",
+        "place" : "Ibadan, Nigeria",
+        "github" : "joshtom"
+    },
+    {
         "name" : "Olatunji Fatai",
         "place" : "Ibadan, Nigeria",
         "github" : "Hollyphat"
     },
-    {
-        "name": "Eric Bryant",
-        "place": "Virginia, USA",
-        "github": "shmickle"
-    }
+    
 ]
