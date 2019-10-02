@@ -215,4 +215,9 @@ var profiles = [
         "place" : "VARANASI, INDIA",
         "github" : "ajeet707"
     },
+    {
+        "name" : "Anna Lewis",
+        "place" : "Denver, United States",
+        "github" : "annnfrann"
+    },
 ]
