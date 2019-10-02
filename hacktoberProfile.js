@@ -131,10 +131,15 @@ var profiles = [
         "place" : "Galle, Sri Lanka",
         "github" : "TharinduMD"
     },
-     {
+    {
         "name" : "Joseph Stefani",
         "place" : "Tacoma, United States",
         "github" : "josephstefani08"
+    },
+    {
+        "name": "João Vitor Veras",
+        "place": "Franca SP, Brazil",
+        "github": "1develloper"
     },
 
 ]
