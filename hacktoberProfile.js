@@ -1,8 +1,13 @@
 var profiles = [
     {
-        "name": "Srinibas Biswal",
-        "place": "Bhubaneswar, India",
-        "github": "srinibasbiswal"
+        "name" : "Srinibas Biswal",
+        "place" : "Bhubaneswar, India",
+        "github" : "srinibasbiswal"
+    },
+    {
+        "name" : "Chee Seng Leong",
+        "place" : "Kuala Lumpur, Malaysia",
+        "github" : "csleong98"
     },
     {
         "name": "Chee Seng Leong",
@@ -196,4 +201,9 @@ var profiles = [
         "place" : "Vila Velha, Brazil",
         "github" : "bosiarquitetura"
     },
+    {
+        "name" : "Hari Prasetia",
+        "place" : "Indonesia, Jakarta",
+        "github" : "hariprasetia"
+    }
 ]
