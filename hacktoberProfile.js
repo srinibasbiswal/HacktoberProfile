@@ -237,4 +237,9 @@ var profiles = [
         "place" : "Uppsala, Sweden",
         "github" : "McFrappe"
     },
+    {
+        "name" : "Eduardo Gomes",
+        "place" : "Brasília, Brazil",
+        "github" : "eduqg"
+    },
 ]
