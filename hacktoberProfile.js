@@ -45,6 +45,10 @@ var profiles = [
         "github" : "PandiyanCool"
     },
     {
+        "name" : "Bolaji Ogidan",
+        "place" : "Nigeria, Lagos",
+        "github" : "Bolajiscott"
+    },
         "name" : "Rishabh Choudhary",
         "place" : "Ranchi, India",
         "github" : "RisavChd24"
