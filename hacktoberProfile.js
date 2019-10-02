@@ -186,4 +186,9 @@ var profiles = [
         "place" : "Boston, USA",
         "github" : "zotamias"
     },
+    {
+        "name" : "Lindsey Wild",
+        "place" : "Pennsylvania, USA",
+        "github" : "lindseywild"
+    },
 ]
