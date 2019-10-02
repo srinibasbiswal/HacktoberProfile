@@ -249,4 +249,9 @@ var profiles = [
         "place" : "New York, USA",
         "github" : "AnnaYWu"
     },
-]
+    {
+        "name" : "Guido Sanchez",
+        "place" : "Airdrie, Canada",
+        "github" : "Guido2k"
+    }
+];
