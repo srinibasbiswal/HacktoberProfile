@@ -114,6 +114,7 @@ var profiles = [
         "place" : "San Francisco, USA",
         "github" : "ehuange"
     },
+    {
         "name" : "Pandiyan Murugan",
         "place" : "Tamil Nadu, India",
         "github" : "PandiyanCool"
@@ -179,6 +180,7 @@ var profiles = [
         "place" : "Ho Chi Minh, VN",
         "github" : "phuonghoang713"
     },
+    {
         "name" : "Sergi Oca",
         "place" : "Barcelona, Spain",
         "github" : "SergiOca87"
