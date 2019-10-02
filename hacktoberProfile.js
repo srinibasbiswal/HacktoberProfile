@@ -211,4 +211,8 @@ var profiles = [
         "place" : "Araraquara, Brazil",
         "github" : "ocarlic"
     },
+    {   "name" : "AJEET",
+        "place" : "VARANASI, INDIA",
+        "github" : "ajeet707"
+    },
 ]
