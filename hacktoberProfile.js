@@ -166,4 +166,9 @@ var profiles = [
         "place" : "Tirane, Albania",
         "github" : "mateohoxha"
     },
+    {
+        "name" : "Pelin Uyar",
+        "place" : "Izmir, Turkey",
+        "github" : "p2uyar"
+    },
 ]
