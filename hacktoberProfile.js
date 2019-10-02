@@ -83,6 +83,16 @@ var profiles = [
         "github" : "Frewacom"
     },
     {
+        "name" : "Pandiyan Murugan",
+        "place" : "Tamil Nadu, India",
+        "github" : "PandiyanCool"
+    },
+    {
+        "name" : "Olatunji Fatai",
+        "place" : "Ibadan, Nigeria",
+        "github" : "Hollyphat"
+    },
+    {
         "name": "Eric Bryant",
         "place": "Virginia, USA",
         "github": "shmickle"
