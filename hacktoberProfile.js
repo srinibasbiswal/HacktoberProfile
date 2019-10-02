@@ -1,38 +1,86 @@
 var profiles = [
-    {
-        "name" : "Srinibas Biswal",
-        "place" : "Bhubaneswar, India",
-        "github" : "srinibasbiswal"
-    },    
-    {
-        "name" : "Chee Seng Leong",
-        "place" : "Kuala Lumpur, Malaysia",
-        "github" : "csleong98"
-    },  
-    {
-        "name" : "Aisha Aqeel",
-        "place" : "Karachi, Pakistan",
-        "github" : "aishaaqeel"
+  {
+        "name": "Srinibas Biswal",
+        "place": "Bhubaneswar, India",
+        "github": "srinibasbiswal"
     },
     {
-        "name" : "Saurabh Shukla",
+        "name": "Chee Seng Leong",
+        "place": "Kuala Lumpur, Malaysia",
+        "github": "csleong98"
+    },
+    {
+        "name": "Aisha Aqeel",
+        "place": "Karachi, Pakistan",
+        "github": "aishaaqeel"
+    },
+    {
+        "name": "Saurabh Shukla",
+        "place": "Gwalior, India",
+        "github": "saurabh1515"
+    },
+    {
+        "name": "Trapta Singh",
+        "place": "Kanpur, India",
+        "github": "ts-1"
+    },
+    {
+        "name": "Juhani AHola",
+        "place": "Helsinki, Finland",
+        "github": "aholajuhani"
+    },
+        "name" : "runtimeTerror",
+        "place" : "Kharagpur, India",
+        "github" : "hemanth-hk"
+    },
+    {
+        "name": "Himanshu Gupta",
+        "place": "Noida, India",
+        "github": "meHimanshu"
+    },
+    {
+        "name": "Pandiyan Murugan",
+        "place": "Tamil Nadu, India",
+        "github": "PandiyanCool"
+    },
+    {
+        "name": "HariHaran Subramanian",
+        "place": "Tamil Nadu, India",
+        "github": "gethari"
+    },
+    {
+        "name" : "Mehul Bhutalia",
         "place" : "Gwalior, India",
-        "github" : "saurabh1515"
+        "github" : "mehul02"
     },
     {
-        "name" : "Trapta Singh",
-        "place" : "Kanpur, India",
-        "github" : "ts-1"
+        "name" : "Rachel Johnson",
+        "place" : "Sydney, Australia",
+        "github" : "rachelktyjohnson"
     },
     {
-        "name" : "Juhani AHola",
-        "place" : "Helsinki, Finland",
-        "github" : "aholajuhani"
+        "name" : "Bolaji Ogidan",
+        "place" : "Nigeria, Lagos",
+        "github" : "Bolajiscott"
+    },
+        "name" : "Rishabh Choudhary",
+        "place" : "Ranchi, India",
+        "github" : "RisavChd24"
     },
     {
-        "name" : "Himanshu Gupta",
-        "place" : "Noida, India",
-        "github" : "meHimanshu"
+        "name" : "Laura Pinto",
+        "place" : "Guimarães, Portugal",
+        "github" : "lauraalpinto"
+    },
+    {
+        "name": "Alan Saputra Lengkoan",
+        "place": "Makassar, Indonesia",
+        "github": "alanlengkoan"
+    },
+    {
+        "name" : "Fredrik Engstrand",
+        "place" : "Uppsala, Sweden",
+        "github" : "Frewacom"
     },
     {
         "name" : "Pandiyan Murugan",
@@ -43,6 +91,10 @@ var profiles = [
         "name" : "Olatunji Fatai",
         "place" : "Ibadan, Nigeria",
         "github" : "Hollyphat"
+    },
+    {
+        "name": "Eric Bryant",
+        "place": "Virginia, USA",
+        "github": "shmickle"
     }
 ]
-
