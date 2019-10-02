@@ -10,11 +10,6 @@ var profiles = [
         "github" : "csleong98"
     },
     {
-        "name": "Chee Seng Leong",
-        "place": "Kuala Lumpur, Malaysia",
-        "github": "csleong98"
-    },
-    {
         "name": "Kee Magbanua",
         "place": "Bacolod, Philippines",
         "github": "samcode23"
