@@ -196,4 +196,9 @@ var profiles = [
         "place" : "Vila Velha, Brazil",
         "github" : "bosiarquitetura"
     },
+    {
+        "name" : "Akinkunmi Olunloye",
+        "place" : "Osogbo, Nigeria",
+        "github" : "Roqak"
+    },
 ]
