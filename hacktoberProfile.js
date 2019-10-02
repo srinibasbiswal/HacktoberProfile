@@ -10,6 +10,11 @@ var profiles = [
         "github": "csleong98"
     },
     {
+        "name": "Kee Magbanua",
+        "place": "Bacolod, Philippines",
+        "github": "samcode23"
+    },
+    {
         "name": "Aisha Aqeel",
         "place": "Karachi, Pakistan",
         "github": "aishaaqeel"
@@ -29,6 +34,7 @@ var profiles = [
         "place": "Helsinki, Finland",
         "github": "aholajuhani"
     },
+    {
         "name" : "runtimeTerror",
         "place" : "Kharagpur, India",
         "github" : "hemanth-hk"
@@ -63,6 +69,7 @@ var profiles = [
         "place" : "Nigeria, Lagos",
         "github" : "Bolajiscott"
     },
+    {
         "name" : "Rishabh Choudhary",
         "place" : "Ranchi, India",
         "github" : "RisavChd24"
