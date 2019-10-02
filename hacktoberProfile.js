@@ -83,6 +83,11 @@ var profiles = [
         "github" : "Frewacom"
     },
     {
+        "name" : "William Palacios",
+        "place" : "Managua, Nicaragua",
+        "github" : "wpalacios"
+    },
+    {
         "name" : "Adrian Mejias",
         "place" : "Harker Heights, United States",
         "github" : "adrianmejias"
