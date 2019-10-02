@@ -121,5 +121,10 @@ var profiles = [
         "place" : "kharagpur, India",
         "github" : "Dharm7900"
     },
+    {
+        "name" : "Geri adam",
+        "place" : "Surabaya, Indonesia",
+        "github" : "geriadam"
+    },
 
 ]
