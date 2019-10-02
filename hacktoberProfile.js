@@ -156,4 +156,9 @@ var profiles = [
         "place" : "Stroud, UK",
         "github" : "Evie-Skinner18"
     },
+    {
+        "name" : "Hoang Nguyen",
+        "place" : "Ho Chi Minh, VN",
+        "github" : "phuonghoang713"
+    },
 ]
