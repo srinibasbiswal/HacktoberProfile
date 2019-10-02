@@ -1,5 +1,5 @@
 var profiles = [
-  {
+    {
         "name": "Srinibas Biswal",
         "place": "Bhubaneswar, India",
         "github": "srinibasbiswal"
@@ -83,6 +83,11 @@ var profiles = [
         "github" : "Frewacom"
     },
     {
+        "name" : "Adrian Mejias",
+        "place" : "Harker Heights, United States",
+        "github" : "adrianmejias"
+    },
+    {
         "name" : "Eddie Huang",
         "place" : "San Francisco, USA",
         "github" : "ehuange"
@@ -106,5 +111,5 @@ var profiles = [
         "place" : "Ibadan, Nigeria",
         "github" : "Hollyphat"
     },
-    
+
 ]
