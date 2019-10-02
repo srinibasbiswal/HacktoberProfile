@@ -181,4 +181,9 @@ var profiles = [
         "place" : "New Jersey, USA",
         "github" : "CCreativeCND"
     },
+    {
+        "name" : "Zara Otamias",
+        "place" : "Boston, USA",
+        "github" : "zotamias"
+    },
 ]
