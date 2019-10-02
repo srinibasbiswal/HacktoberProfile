@@ -110,11 +110,6 @@ var profiles = [
         "github" : "ehuange"
     },
     {
-        "name" : "Pandiyan Murugan",
-        "place" : "Tamil Nadu, India",
-        "github" : "PandiyanCool"
-    },
-    {
         "name": "Eric Bryant",
         "place": "Virginia, USA",
         "github": "shmickle"
