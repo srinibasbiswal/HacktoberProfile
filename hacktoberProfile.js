@@ -175,5 +175,10 @@ var profiles = [
         "name" : "Hatice Erdağı",
         "place" : "İstanbul, Turkey",
         "github" : "haticeerdagi"
+    },      
+    {
+        "name" : "Calum Dingwall",
+        "place" : "New Jersey, USA",
+        "github" : "CCreativeCND"
     },
 ]
