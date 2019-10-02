@@ -83,6 +83,10 @@ var profiles = [
         "github" : "Frewacom"
     },
     {
+        "name" : "Eddie Huang",
+        "place" : "San Francisco, USA",
+        "github" : "ehuange"
+    },
         "name" : "Pandiyan Murugan",
         "place" : "Tamil Nadu, India",
         "github" : "PandiyanCool"
