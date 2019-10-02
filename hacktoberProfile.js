@@ -147,9 +147,13 @@ var profiles = [
         "github" : "jlapitan"
     },
     {
-      name: "Melissa Gnz",
-      place: "Washington, USA",
-      github: "melisssagnzx"
-    }
-
+      "name": "Melissa Gnz",
+      "place": "Washington, USA",
+      "github": "melisssagnzx"
+    },
+    {
+        "name" : "Evie Skinner",
+        "place" : "Stroud, UK",
+        "github" : "Evie-Skinner18"
+    },
 ]
