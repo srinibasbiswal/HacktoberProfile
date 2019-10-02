@@ -90,6 +90,11 @@ var profiles = [
         "github": "alanlengkoan"
     },
     {
+        "name": "Vikum Sanjeewa",
+        "place": "Kurunegala, Srilanka",
+        "github": "vikumkbv"
+    },
+    {
         "name" : "Fredrik Engstrand",
         "place" : "Uppsala, Sweden",
         "github" : "Frewacom"
