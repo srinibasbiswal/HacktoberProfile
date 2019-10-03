@@ -259,5 +259,9 @@ var profiles = [
         "place" : "Thessaloniki, Greece",
         "github" : "alator21"
     },
-  
+    {
+        "name" : "Aditya Vikram",
+        "place" : "Kolkata, India",
+        "github" : "avikram553"
+    },
 ]
