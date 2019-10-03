@@ -254,5 +254,10 @@ var profiles = [
         "place" : "New York, United States",
         "github" : "atomikjaye"
     },
-   
+    {
+        "name" : "Triantafillidis Rafael",
+        "place" : "Thessaloniki, Greece",
+        "github" : "alator21"
+    },
+  
 ]
