@@ -334,9 +334,15 @@ var profiles = [
     place : "Aceh, Indonesia",
     github : "ghazimuharam"
   },
-   {
+  {
     name : "Diogo Almeida",
     place : "Porto Alegre, Brasil",
     github : "TriGaucho"
+  },
+  {
+    name : "Sartaj Roshan",
+    place : "Kerala,India",
+    github : "sartajroshan"
   }
+  
 ];
