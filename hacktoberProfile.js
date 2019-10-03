@@ -343,6 +343,10 @@ var profiles = [
     name : "Sartaj Roshan",
     place : "Kerala,India",
     github : "sartajroshan"
+  },
+  {
+    name : "Artem Goncharenko",
+    place : "Kharkiv, Ukraine",
+    github : "artem3"
   }
-  
 ];
