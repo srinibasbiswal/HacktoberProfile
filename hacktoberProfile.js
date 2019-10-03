@@ -298,4 +298,9 @@ var profiles = [
 		"place": "Čakovec, Croatia",
 		"github": "msafaric"
 	},
+  {
+        "name" : "Nathan Lim",
+        "place" : "New Jersey, USA",
+        "github" : "LoserCringe"
+    },
 ]
