@@ -6,22 +6,29 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Hacktoberfest 2019</title>
     <link rel="stylesheet" href="css/uikit.min.css" />
+    <link rel="stylesheet" href="css/style.css"/>
 </head>
-<body>
+<body class="uk-background-muted">
     <nav class="uk-navbar-container" uk-navbar>
         <div class="uk-navbar-left">
-            <ul class="uk-navbar-nav">
-                <li class="uk-active"><a href="">Contributors</a></li>
-            </ul>
+            <a class="uk-navbar-item uk-logo" href="#">HacktoberProfile</a>
+        </div>
+        <div class="uk-navbar-right">
+            <button class="uk-button uk-button-default uk-border-rounded uk-button-width-small uk-margin-small-right">
+                <a class="uk-link-reset" href="contributors.html" ><span uk-icon="home"></span> Home</a>
+            </button>
+            <button class="uk-button uk-button-default uk-border-rounded uk-button-width-small uk-margin-small-right">
+                <a class="uk-link-reset" href="contributors.html" ><span uk-icon="users"></span> Contributors</a>
+            </button>
         </div>
     </nav>
     <div>
-        <div class="uk-text-center" id="userCards" uk-grid>
-            
+        <div class="uk-container uk-margin-medium-top uk-margin-medium-bottom">
+            <div class="uk-text-center" id="userCards" uk-grid uk-height-match="target: > div > .uk-card; row: false">
+                 <!-- To be populated by userMapping.js  -->
+            </div>
         </div>
-    </div>
-
-    
+    </div>    
 
     <script type="text/javascript" src="hacktoberProfile.js"></script>
     <script type="text/javascript" src="js/nameMapping.js"></script>
