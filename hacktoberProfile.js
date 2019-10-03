@@ -274,4 +274,9 @@ var profiles = [
         "place" : "Indore, India",
         "github" : "IIITian-Chandan"
     },
+    {
+        "name" : "Kunal S",
+        "place" : "Bengaluru, India",
+        "github" : "kunal-sanghvi"
+    },
 ]
