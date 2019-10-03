@@ -1,4 +1,5 @@
-# Hacktoberprofile
+# Hacktoberprofile 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/srinibasbiswal/HacktoberProfile?color=green) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/srinibasbiswal/HacktoberProfile) ![GitHub contributors](https://img.shields.io/github/contributors-anon/srinibasbiswal/HacktoberProfile)
 
 Happy Hacktoberfest! Hacktoberfest is back :fire: 
 HacktoberProfile is a list of profiles of Hacktoberfest 2019 participants.
