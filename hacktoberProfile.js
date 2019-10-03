@@ -289,4 +289,9 @@ var profiles = [
         "place" : "Stockport, England",
         "github" : "thomas-booker"
     },
+    {
+        "name" : "Elena",
+        "place" : "Munich, Germany",
+        "github" : "eli312"
+    },
 ]
