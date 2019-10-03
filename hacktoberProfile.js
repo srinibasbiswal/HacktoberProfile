@@ -303,4 +303,9 @@ var profiles = [
         "place" : "New Jersey, USA",
         "github" : "LoserCringe"
     },
+  {
+        "name" : "Aditya Vikram",
+        "place" : "Kolkata, India",
+        "github" : "avikram553"
+    },
 ]
