@@ -314,4 +314,9 @@ var profiles = [
     place: "Stutgart, Germany",
     github: "babakmoeinifar",
   },
+  {
+    name : "Joel Yek",
+    place : "Kuala Lumpur, Malaysia",
+    github : "joevo2"
+  },
 ];
