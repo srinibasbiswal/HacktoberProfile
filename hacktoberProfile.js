@@ -1,4 +1,4 @@
-var profiles = [
+const profiles = [
     {
         "name" : "Srinibas Biswal",
         "place" : "Bhubaneswar, India",
@@ -260,4 +260,4 @@ var profiles = [
         "github" : "alator21"
     },
   
-]
+];
