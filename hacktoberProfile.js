@@ -240,13 +240,19 @@ var profiles = [
         "github" : "eduqg"
     },
     {
+        "name" : "Anna Wu",
+        "place" : "New York, USA",
+        "github" : "AnnaYWu"
+    },
+    {
         "name" : "Akinkunmi Olunloye",
         "place" : "Osogbo, Nigeria",
         "github" : "Roqak"
     },
     {
-        "name" : "Anna Wu",
-        "place" : "New York, USA",
-        "github" : "AnnaYWu"
+        "name" : "Jaye N.",
+        "place" : "New York, United States",
+        "github" : "atomikjaye"
     },
+   
 ]
