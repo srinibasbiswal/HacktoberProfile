@@ -303,15 +303,19 @@ var profiles = [
         "place" : "New Jersey, USA",
         "github" : "LoserCringe"
     },
-  {
+    {
         "name" : "Aditya Vikram",
         "place" : "Kolkata, India",
         "github" : "avikram553"
     },
-  
-        {
-        "name" : "Babak",
-        "place" : "Stutgart, Germany",
-        "github" : "babakmoeinifar"
-        },
+    {
+    "name" : "Babak",
+    "place" : "Stutgart, Germany",
+    "github" : "babakmoeinifar"
+    },
+    {
+    "name" : "Joel Yek",
+    "place" : "Kuala Lumpur, Malaysia",
+    "github" : "joevo2"
+    },
 ]
