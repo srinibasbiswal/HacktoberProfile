@@ -164,93 +164,136 @@ var profiles = [
 		"place": "Stroud, UK",
 		"github": "Evie-Skinner18"
 	},
-	{
-
-		"name": "Hoang Nguyen",
-		"place": "Ho Chi Minh, VN",
-		"github": "phuonghoang713"
-	},
-	{
-		"name": "Sergi Oca",
-		"place": "Barcelona, Spain",
-		"github": "SergiOca87"
-	},
-	{
-		"name": "Mateo Hoxha",
-		"place": "Tirane, Albania",
-		"github": "mateohoxha"
-	},
-	{
-		"name": "Pelin Uyar",
-		"place": "Izmir, Turkey",
-		"github": "p2uyar"
-	},
-	{
-		"name": "Hatice Erdağı",
-		"place": "İstanbul, Turkey",
-		"github": "haticeerdagi"
-	},
-	{
-		"name": "Calum Dingwall",
-		"place": "New Jersey, USA",
-		"github": "CCreativeCND"
-	},
-	{
-		"name": "Zara Otamias",
-		"place": "Boston, USA",
-		"github": "zotamias"
-	},
-	{
-		"name": "Lindsey Wild",
-		"place": "Pennsylvania, USA",
-		"github": "lindseywild"
-	},
-	{
-		"name": "Felipe Bosi",
-		"place": "Vila Velha, Brazil",
-		"github": "bosiarquitetura"
-	},
-	{
-		"name": "Hari Prasetia",
-		"place": "Indonesia, Jakarta",
-		"github": "hariprasetia"
-	},
-	{
-		"name": "Victor Carli",
-		"place": "Araraquara, Brazil",
-		"github": "ocarlic"
-	},
-	{
-		"name": "AJEET",
-		"place": "VARANASI, INDIA",
-		"github": "ajeet707"
-	},
-	{
-		"name": "Anna Lewis",
-		"place": "Denver, United States",
-		"github": "annnfrann"
-	},
-	{
-		"name": "Fahad Jamil",
-		"place": "Uppsala, Sweden",
-		"github": "McFrappe"
-	},
-	{
-		"name": "Eduardo Gomes",
-		"place": "Brasília, Brazil",
-		"github": "eduqg"
-	},
-	{
-		"name": "Akinkunmi Olunloye",
-		"place": "Osogbo, Nigeria",
-		"github": "Roqak"
-	},
-	{
-		"name": "Anna Wu",
-		"place": "New York, USA",
-		"github": "AnnaYWu"
-	},
-	{
+  {
+        "name" : "Hoang Nguyen",
+        "place" : "Ho Chi Minh, VN",
+        "github" : "phuonghoang713"
+    },
+    {
+        "name" : "Sergi Oca",
+        "place" : "Barcelona, Spain",
+        "github" : "SergiOca87"
+    },
+    {
+        "name" : "Mateo Hoxha",
+        "place" : "Tirane, Albania",
+        "github" : "mateohoxha"
+    },
+    {
+        "name" : "Pelin Uyar",
+        "place" : "Izmir, Turkey",
+        "github" : "p2uyar"
+    },
+    {
+        "name" : "Hatice Erdağı",
+        "place" : "İstanbul, Turkey",
+        "github" : "haticeerdagi"
+    },
+    {
+        "name" : "Calum Dingwall",
+        "place" : "New Jersey, USA",
+        "github" : "CCreativeCND"
+    },
+    {
+        "name" : "Zara Otamias",
+        "place" : "Boston, USA",
+        "github" : "zotamias"
+    },
+    {
+        "name" : "Lindsey Wild",
+        "place" : "Pennsylvania, USA",
+        "github" : "lindseywild"
+    },
+    {
+        "name" : "Felipe Bosi",
+        "place" : "Vila Velha, Brazil",
+        "github" : "bosiarquitetura"
+    },
+    {
+        "name" : "Hari Prasetia",
+        "place" : "Indonesia, Jakarta",
+        "github" : "hariprasetia"
+    },
+    {
+        "name" : "Victor Carli",
+        "place" : "Araraquara, Brazil",
+        "github" : "ocarlic"
+    },
+    {   "name" : "AJEET",
+        "place" : "VARANASI, INDIA",
+        "github" : "ajeet707"
+    },
+    {
+        "name" : "Anna Lewis",
+        "place" : "Denver, United States",
+        "github" : "annnfrann"
+    },
+    {
+        "name" : "Fahad Jamil",
+        "place" : "Uppsala, Sweden",
+        "github" : "McFrappe"
+    },
+    {
+        "name" : "Eduardo Gomes",
+        "place" : "Brasília, Brazil",
+        "github" : "eduqg"
+    },
+    {
+        "name" : "Anna Wu",
+        "place" : "New York, USA",
+        "github" : "AnnaYWu"
+    },
+    {
+        "name" : "Akinkunmi Olunloye",
+        "place" : "Osogbo, Nigeria",
+        "github" : "Roqak"
+    },
+    {
+        "name" : "Jaye N.",
+        "place" : "New York, United States",
+        "github" : "atomikjaye"
+    },
+    {
+        "name" : "Triantafillidis Rafael",
+        "place" : "Thessaloniki, Greece",
+        "github" : "alator21"
+    },
+    {
+        "name" : "Abhishek Jain",
+        "place" : "Mumbai, India",
+        "github" : "maniac-tech"
+    },
+    {
+        "name" : "Guido Sanchez",
+        "place" : "Airdrie, Canada",
+        "github" : "Guido2k"
+    },
+    {
+        "name" : "Chandan Mishra",
+        "place" : "Indore, India",
+        "github" : "IIITian-Chandan"
+    },
+    {
+        "name" : "Kunal S",
+        "place" : "Bengaluru, India",
+        "github" : "kunal-sanghvi"
+    },
+    {
+         "name" : "Elangovan Sundar",
+         "place" : "Chennai, India",
+         "github" : "elangovanshanthi"
+    },
+    {
+        "name" : "Tom Booker",
+        "place" : "Stockport, England",
+        "github" : "thomas-booker"
+    },
+    {
+        "name" : "Elena",
+        "place" : "Munich, Germany",
+        "github" : "eli312"
+    },
+  {
 		"name": "Martina Šafarić",
 		"place": "Čakovec, Croatia",
 		"github": "msafaric"
