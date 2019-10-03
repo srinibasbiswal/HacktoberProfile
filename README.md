@@ -19,11 +19,11 @@ repository and clone your forked repository.
 In your forked repository, edit `hacktoberProfile.js` and add your name, place and github userName to the bottom of the file using this format:
 
 ```
-    {
-        "name" : "Full Name",
-        "place" : "City, Country",
-        "github" : "github userName"
-    }
+  {
+    name : "Full Name",
+    place : "City, Country",
+    github : "github userName"
+  }
 ```
 
 ### Step 3 
