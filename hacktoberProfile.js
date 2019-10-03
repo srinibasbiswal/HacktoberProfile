@@ -283,5 +283,10 @@ var profiles = [
          "name" : "Elangovan Sundar",
          "place" : "Chennai, India",
          "github" : "elangovanshanthi"
-    }
+    },
+    {
+        "name" : "Tom Booker",
+        "place" : "Stockport, England",
+        "github" : "thomas-booker"
+    },
 ]
