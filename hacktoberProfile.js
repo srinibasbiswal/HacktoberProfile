@@ -240,14 +240,34 @@ var profiles = [
         "github" : "eduqg"
     },
     {
+        "name" : "Anna Wu",
+        "place" : "New York, USA",
+        "github" : "AnnaYWu"
+    },
+    {
         "name" : "Akinkunmi Olunloye",
         "place" : "Osogbo, Nigeria",
         "github" : "Roqak"
     },
     {
-        "name" : "Anna Wu",
-        "place" : "New York, USA",
-        "github" : "AnnaYWu"
+        "name" : "Jaye N.",
+        "place" : "New York, United States",
+        "github" : "atomikjaye"
+    },
+    {
+        "name" : "Triantafillidis Rafael",
+        "place" : "Thessaloniki, Greece",
+        "github" : "alator21"
+    },
+    {
+        "name" : "Abhishek Jain",
+        "place" : "Mumbai, India",
+        "github" : "maniac-tech"
+    },
+    {
+        "name" : "Guido Sanchez",
+        "place" : "Airdrie, Canada",
+        "github" : "Guido2k"
     },
     {
         "name" : "Chandan Mishra",
