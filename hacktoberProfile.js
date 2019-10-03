@@ -189,7 +189,7 @@ var profiles = [
         "name" : "Hatice Erdağı",
         "place" : "İstanbul, Turkey",
         "github" : "haticeerdagi"
-    },      
+    },
     {
         "name" : "Calum Dingwall",
         "place" : "New Jersey, USA",
@@ -204,7 +204,7 @@ var profiles = [
         "name" : "Lindsey Wild",
         "place" : "Pennsylvania, USA",
         "github" : "lindseywild"
-    },  
+    },
     {
         "name" : "Felipe Bosi",
         "place" : "Vila Velha, Brazil",
@@ -240,6 +240,11 @@ var profiles = [
         "github" : "eduqg"
     },
     {
+        "name" : "Anna Wu",
+        "place" : "New York, USA",
+        "github" : "AnnaYWu"
+    },
+    {
         "name" : "Akinkunmi Olunloye",
         "place" : "Osogbo, Nigeria",
         "github" : "Roqak"
@@ -248,5 +253,6 @@ var profiles = [
         "name" : "Jaye N.",
         "place" : "New York, United States",
         "github" : "atomikjaye"
-    }
+    },
+   
 ]
