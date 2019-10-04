@@ -345,9 +345,38 @@ var profiles = [
     github : "sartajroshan"
   },
   {
+    name : "Arpit Bhattar",
+    place : "Gujarat, India",
+    github : "aptbhattar"
+  },
+  {
+    name : "Artem Goncharenko",
+    place : "Kharkiv, Ukraine",
+    github : "artem3"
+  },
+  {
+    name: "Leon Koop",
+    place: "Magdeburg, Germany",
+    github: "LeonK-UnnaturalD"
+  },
+  {
+    name : "Júlia Maschion",
+    place : "São Paulo, Brazil",
+    github : "jumaschion"
+  },
+  {
+    name : "MrEvertide",
+    place : "Québec, Canada",
+    github : "MrEvertide"
+  },
+  {
+    name : "Pocholo Recto",
+    place : "Philippines",
+    github : "cholorecto"
+  },
+  {
     name : "Daniel Duhaylungsod",
     place : "Davao City, Philippines",
     github : "danieldee9"
   }
-  
 ];
