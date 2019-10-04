@@ -363,6 +363,11 @@ var profiles = [
     name : "Júlia Maschion",
     place : "São Paulo, Brazil",
     github : "jumaschion"
+  },
+  {
+    name: "M Faisal Akbar",
+    place: "Bandung, Indonesia",
+    github: "mhdrare"
   }
   
 ];
