@@ -373,5 +373,10 @@ var profiles = [
     name : "Pocholo Recto",
     place : "Philippines",
     github : "cholorecto"
+  },
+  {
+    name : "Daniel Duhaylungsod",
+    place : "Davao City, Philippines",
+    github : "danieldee9"
   }
 ];
