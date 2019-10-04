@@ -344,5 +344,9 @@ var profiles = [
     place : "Kerala,India",
     github : "sartajroshan"
   }
-  
+  {
+    name : "Arpit Bhattar",
+    place : "Gujarat, India",
+    github : "aptbhattar"
+  }
 ];
