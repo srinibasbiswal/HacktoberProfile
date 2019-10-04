@@ -1,9 +1,5 @@
 var profiles = [
-    {
-        "name" : "Ahnaf Hadi Fathulloh",
-        "place" : "Jakarta, Indonesia",
-        "github" : "ahnafhf21"
-    },    
+    
     {
         "name" : "Srinibas Biswal",
         "place" : "Bhubaneswar, India",
@@ -44,5 +40,10 @@ var profiles = [
         "place" : "Tamil Nadu, India",
         "github" : "PandiyanCool"
     }
+    {
+        "name" : "Ahnaf Hadi Fathulloh",
+        "place" : "Jakarta, Indonesia",
+        "github" : "ahnafhf21"
+    },    
 ]
 
