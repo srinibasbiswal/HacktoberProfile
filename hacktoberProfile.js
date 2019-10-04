@@ -365,8 +365,54 @@ var profiles = [
     github : "jumaschion"
   },
   {
+    name : "MrEvertide",
+    place : "Québec, Canada",
+    github : "MrEvertide"
+  },
+  {
+    name : "Pocholo Recto",
+    place : "Philippines",
+    github : "cholorecto"
+  },
+  {
+    name : "Daniel Duhaylungsod",
+    place : "Davao City, Philippines",
+    github : "danieldee9"
+  },
+  {
+    name : "Glevinzon Dapal",
+    place : "Davao, Philippines",
+    github : "glevinzon"
+  },
+  {
+    name: "Abhijit Parida",
+    place: "Bhubaneswar, India",
+    github: "abhijitparida",
+  },
+  {
+    name : "Sareesh V",
+    place : "Texas, United States",
+    github : "sareeshv"
+  },
+  {
+    name : "Rahi",
+    place : "Arizona, USA",
+    github : "rahisulhaque"
+  },
+  {
+    name : "Fiqar Aprialim",
+    place : "Makassar, Indonesia",
+    github : "lbexp"
+  },
+  {
+    name : "Oscar Canales",
+    place : "Laredo, United States",
+    github : "JayChannels"
+  },
+  {
     name : "Josh",
     place : "Berlin, Germany",
     github : "Jxshvh"
   }
 ];
+
