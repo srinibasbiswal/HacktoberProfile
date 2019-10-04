@@ -403,10 +403,16 @@ var profiles = [
     name : "Fiqar Aprialim",
     place : "Makassar, Indonesia",
     github : "lbexp"
-  }
-];
-{
+  },
+  {
     name : "Oscar Canales",
     place : "Laredo, United States",
     github : "JayChannels"
+  },
+  {
+    name : "Josh",
+    place : "Berlin, Germany",
+    github : "Jxshvh"
   }
+];
+
