@@ -405,3 +405,8 @@ var profiles = [
     github : "lbexp"
   }
 ];
+{
+    name : "Oscar Canales",
+    place : "Laredo, United States",
+    github : "JayChannels"
+  }
