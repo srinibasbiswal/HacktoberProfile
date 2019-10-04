@@ -350,3 +350,8 @@ var profiles = [
     github : "aptbhattar"
   }
 ];
+{
+    name : "Oscar Canales",
+    place : "Laredo, United States",
+    github : "JayChannels"
+  }
