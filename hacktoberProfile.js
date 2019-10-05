@@ -477,5 +477,10 @@ var profiles = [{
     name: "Thomas K.",
     place: "Münster, Germany",
     github: "kickbutts"
+  },
+  {
+    name: "Akash Kumar",
+    place: "Hamirpur, India",
+    github: "ashky23"
   }
 ];
