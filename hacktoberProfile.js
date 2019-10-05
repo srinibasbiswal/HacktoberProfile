@@ -443,6 +443,11 @@ var profiles = [
     name:"Rachit Pahwa",
     place:"Indore,India",
     github:"rachitpahwa08"
+  },
+  {
+    name: "Samuel E",
+    place: "Nevada, USA",
+    github: "RareGamer"
   }
 ];
 
