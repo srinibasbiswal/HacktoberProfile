@@ -448,6 +448,11 @@ var profiles = [
     name: "Samuel E",
     place: "Nevada, USA",
     github: "RareGamer"
+  },
+  {
+    name: "Fadhil Amadan",
+    place: "Surabaya, Indonesia",
+    github: "Fadhilamadan"
   }
 ];
 
