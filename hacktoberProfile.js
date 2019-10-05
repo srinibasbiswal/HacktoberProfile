@@ -5,11 +5,6 @@ var profiles = [
     github: "srinibasbiswal",
   },
   {
-    name: "Dilek Tas Uzulmez",
-    place: "Corum, Turkey",
-    github: "dilekuzulmez"
-  },
-  {
     name: "Chee Seng Leong",
     place: "Kuala Lumpur, Malaysia",
     github: "csleong98",
@@ -438,6 +433,11 @@ var profiles = [
     name: "Nilesh D",
     place: "Chennai, India",
     github: "Nilesh2000"
+  }
+  {
+    name: "Dilek Tas Uzulmez",
+    place: "Corum, Turkey",
+    github: "dilekuzulmez"
   }
 ];
 
