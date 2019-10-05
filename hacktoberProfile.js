@@ -9,6 +9,12 @@ var profiles = [
     place: "Kuala Lumpur, Malaysia",
     github: "csleong98",
   },
+{
+    name: "Jonathan Haddock",
+    place: "Kent, UK",
+    github: "joncojonathan",
+  },
+
   {
     name: "Kee Magbanua",
     place: "Bacolod, Philippines",
