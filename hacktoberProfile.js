@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 var profiles = [
   {
+=======
+var profiles = [{
+>>>>>>> 5cd99aa41beed7253b6556f321dd0e5ff7039604
     name: "Srinibas Biswal",
     place: "Bhubaneswar, India",
     github: "srinibasbiswal",

@@ -1,4 +1,5 @@
-# Hacktoberprofile
+# Hacktoberprofile 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/srinibasbiswal/HacktoberProfile?color=green) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/srinibasbiswal/HacktoberProfile) ![GitHub contributors](https://img.shields.io/github/contributors-anon/srinibasbiswal/HacktoberProfile)
 
 Happy Hacktoberfest! Hacktoberfest is back :fire: 
 HacktoberProfile is a list of profiles of Hacktoberfest 2019 participants.
@@ -19,11 +20,11 @@ repository and clone your forked repository.
 In your forked repository, edit `hacktoberProfile.js` and add your name, place and github userName to the bottom of the file using this format:
 
 ```
-    {
-        "name" : "Full Name",
-        "place" : "City, Country",
-        "github" : "github userName"
-    }
+  {
+    name : "Full Name",
+    place : "City, Country",
+    github : "github userName"
+  }
 ```
 
 ### Step 3 
