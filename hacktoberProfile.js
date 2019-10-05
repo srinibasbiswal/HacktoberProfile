@@ -434,6 +434,36 @@ var profiles = [{
     github: "Nilesh2000"
   },
   {
+    name : "Aman Kumar Soni",
+    place : "Jalandhar, India",
+    github : "computerwala"
+  },
+  {
+    name:"Rachit Pahwa",
+    place:"Indore,India",
+    github:"rachitpahwa08"
+  },
+  {
+    name: "Samuel E",
+    place: "Nevada, USA",
+    github: "RareGamer"
+  },
+  {
+    name: "Fadhil Amadan",
+    place: "Surabaya, Indonesia",
+    github: "Fadhilamadan"
+  },
+  {
+    name: "Jayant Kumar",
+    place: "Hyderabad, India",
+    github: "learnerjay"
+  },
+  {
+    name: "Steve L",
+    place: "Houston, United States",
+    github: "SteveLee1287"
+  },
+  {
     name: "Daniel Barros",
     place: "Perth, Australia",
     github: "barrosdaniel"
