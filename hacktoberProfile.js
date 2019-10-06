@@ -490,9 +490,53 @@ var profiles = [
     github: "sarahperea"
   },
   {
+    name : "Valeyard1",
+    place : "Sao Paulo, Brazil",
+    github : "Valeyard1"
+  },
+  {
+    name: "Akshay Kumar",
+    place: "Ludhiana, India",
+    github: "Rajputakshay"
+  },
+  {
+    name: "Dilshan Ramesh",
+    place: "Homagama, Sri Lanaka",
+    github: "dilshan97"
+  },
+  {
+    name : "Benny Ogidan",
+    place : "Lagos, Nigeria",
+    github : "benfluleck"
+  },
+  {
+    name: "Christopher Johnson",
+    place: "Florida, USA",
+    github: "CLJohnson088"
+  },
+  {
+    name: "Lauren Bice",
+    place: "Burleson, United States",
+    github: "laurenebice"
+  },
+  {
+    name: "Rusty",
+    place: "Washington DC, USA",
+    github: "heyimrusty"
+  },
+  {
+    name: "Abdurahman",
+    place: "Semarang, Indonesia",
+    github: "abdurahmanrizal"
+  },
+  {
+    name: "Mohd Izzudin",
+    place: "Kuala Lumpur, Malaysia",
+    github: "mohdizzudin"
+  },
+  {
     name: "Kosasih Wahid Pramana",
     place: "Indonesia",
     github: "criedchild"
-  
   }
 ];
