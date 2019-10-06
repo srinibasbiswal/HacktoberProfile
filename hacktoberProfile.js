@@ -518,5 +518,10 @@ var profiles = [
     name: "Lauren Bice",
     place: "Burleson, United States",
     github: "laurenebice"
+  },
+  {
+    name: "Rusty",
+    place: "Washington DC, USA",
+    github: "heyimrusty"
   }
 ];
