@@ -538,5 +538,10 @@ var profiles = [
     name: "Kosasih Wahid Pramana",
     place: "Indonesia",
     github: "criedchild"
+  },
+  {
+    name: "Duncan Teegelaar",
+    place: "Rotterdam, The Netherlands",
+    github: "DuncanTeege"
   }
 ];
