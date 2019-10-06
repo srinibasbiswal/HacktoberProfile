@@ -553,5 +553,10 @@ var profiles = [
     name: "Theressa Marie Tan",
     place: "Philippines",
     github: "tmttan03"  
+  },
+  {
+    name: "Sweta Snigdha Sahoo",
+    place: "Bhubaneswar, India",
+    github: "swetasahoo29"
   }
 ];
