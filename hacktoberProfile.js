@@ -488,7 +488,31 @@ var profiles = [
     name: "Sarah Dominguez Perea",
     place: "Philippines",
     github: "sarahperea"
-  
+  },
+  {
+    name : "Valeyard1",
+    place : "Sao Paulo, Brazil",
+    github : "Valeyard1"
+  },
+  {
+    name: "Akshay Kumar",
+    place: "Ludhiana, India",
+    github: "Rajputakshay"
+  },
+  {
+    name: "Dilshan Ramesh",
+    place: "Homagama, Sri Lanaka",
+    github: "dilshan97"
+  },
+  {
+    name : "Benny Ogidan",
+    place : "Lagos, Nigeria",
+    github : "benfluleck"
+  },
+  {
+    name: "Christopher Johnson",
+    place: "Florida, USA",
+    github: "CLJohnson088"
   },
   {
     name: "Lauren Bice",
