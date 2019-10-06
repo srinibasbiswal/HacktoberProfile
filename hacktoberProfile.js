@@ -549,4 +549,9 @@ var profiles = [
     place: "Hyderabad, India",
     github: "sksaifuddin"
   },
+  {
+    name: "Theressa Marie Tan",
+    place: "Philippines",
+    github: "tmttan03"  
+  }
 ];
