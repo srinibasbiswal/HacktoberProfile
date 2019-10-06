@@ -515,6 +515,11 @@ var profiles = [
     github: "CLJohnson088"
   },
   {
+    name: "Lauren Bice",
+    place: "Burleson, United States",
+    github: "laurenebice"
+  },
+  {
     name: "Sweta Snigdha Sahoo",
     place: "Bhubaneswar, India",
     github: "swetasahoo29"
