@@ -535,6 +535,26 @@ var profiles = [
     github: "mohdizzudin"
   },
   {
+    name: "Kosasih Wahid Pramana",
+    place: "Indonesia",
+    github: "criedchild"
+  },
+  {
+    name: "Duncan Teegelaar",
+    place: "Rotterdam, The Netherlands",
+    github: "DuncanTeege"
+  },
+  {
+    name: "Shaik saifuddin",
+    place: "Hyderabad, India",
+    github: "sksaifuddin"
+  },
+  {
+    name: "Theressa Marie Tan",
+    place: "Philippines",
+    github: "tmttan03"  
+  },
+  {
     name: "Sweta Snigdha Sahoo",
     place: "Bhubaneswar, India",
     github: "swetasahoo29"
