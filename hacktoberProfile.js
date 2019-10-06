@@ -520,6 +520,11 @@ var profiles = [
     github: "laurenebice"
   },
   {
+    name: "Rusty",
+    place: "Washington DC, USA",
+    github: "heyimrusty"
+  },
+  {
     name: "Sweta Snigdha Sahoo",
     place: "Bhubaneswar, India",
     github: "swetasahoo29"
