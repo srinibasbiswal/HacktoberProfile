@@ -505,6 +505,16 @@ var profiles = [
     github: "dilshan97"
   },
   {
+    name : "Benny Ogidan",
+    place : "Lagos, Nigeria",
+    github : "benfluleck"
+  },
+  {
+    name: "Christopher Johnson",
+    place: "Florida, USA",
+    github: "CLJohnson088"
+  },
+  {
     name: "Sweta Snigdha Sahoo",
     place: "Bhubaneswar, India",
     github: "swetasahoo29"
