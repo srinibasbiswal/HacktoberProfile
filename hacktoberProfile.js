@@ -503,6 +503,10 @@ var profiles = [
     name: "Dilshan Ramesh",
     place: "Homagama, Sri Lanaka",
     github: "dilshan97"
+  },
+  {
+    name : "Benny Ogidan",
+    place : "Lagos, Nigeria",
+    github : "benfluleck"
   }
-  
 ];
