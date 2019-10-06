@@ -490,6 +490,21 @@ var profiles = [
     github: "sarahperea"
   },
   {
+    name : "Valeyard1",
+    place : "Sao Paulo, Brazil",
+    github : "Valeyard1"
+  },
+  {
+    name: "Akshay Kumar",
+    place: "Ludhiana, India",
+    github: "Rajputakshay"
+  },
+  {
+    name: "Dilshan Ramesh",
+    place: "Homagama, Sri Lanaka",
+    github: "dilshan97"
+  },
+  {
     name: "Sweta Snigdha Sahoo",
     place: "Bhubaneswar, India",
     github: "swetasahoo29"
