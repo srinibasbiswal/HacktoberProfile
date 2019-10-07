@@ -588,5 +588,10 @@ var profiles = [
     name: "Daniel Aguirre Linares",
     place: "Morelia, México",
     github: "DanielAguirre"
-  }
+  },
+  {
+    name : "Santosh Lakshman",
+    place : "Hyderabad, India",
+    github : "luckymurari"
+   }
 ];
