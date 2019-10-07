@@ -568,5 +568,10 @@ var profiles = [
     name: "Igor Alves",
     place: "Rio Paranaíba, Brazil",
     github: "iguit0"
+  },
+  { 
+    name : "Taylor L.",
+    place : "Boise, USA",
+    github : "tleija"
   }
 ];
