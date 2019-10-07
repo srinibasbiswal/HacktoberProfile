@@ -593,11 +593,15 @@ var profiles = [
     name : "Santosh Lakshman",
     place : "Hyderabad, India",
     github : "luckymurari"
-   }
-  
+   },  
    {
-        name : "Tarannum Ara",
-        place : "Kolkata, India",
-        github : "giTan7"
-    }
+    name : "Tarannum Ara",
+    place : "Kolkata, India",
+    github : "giTan7"
+  },
+  {
+    name : "Dirk Soentjens",
+    place : "Düsseldorf, Germany",
+    github : "tampert"
+  }
 ];
