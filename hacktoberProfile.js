@@ -613,5 +613,10 @@ var profiles = [
     name : "Bruna Andrade",
     place : "Salvador, Brasil",
     github : "brunandrade"
+  },
+  {
+    name : "Akshay Chopra",
+    place : "Nagpur, India",
+    github : "akshaychopra96"
   }
 ];
