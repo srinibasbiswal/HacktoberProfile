@@ -590,8 +590,8 @@ var profiles = [
     github: "DanielAguirre"
   },
   {
-        "name" : "Santosh Lakshman",
-        "place" : "Hyderabad, India",
-        "github" : "luckymurari"
-    }
+    name : "Santosh Lakshman",
+    place : "Hyderabad, India",
+    github : "luckymurari"
+   }
 ];
