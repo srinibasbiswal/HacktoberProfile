@@ -594,4 +594,10 @@ var profiles = [
     place : "Hyderabad, India",
     github : "luckymurari"
    }
+  
+   {
+        name : "Tarannum Ara",
+        place : "Kolkata, India",
+        github : "giTan7"
+    }
 ];
