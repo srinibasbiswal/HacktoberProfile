@@ -564,7 +564,12 @@ var profiles = [
     place: "Corum, Turkey",
     github: "dilekuzulmez"
   },
-   {
+  {
+    name: "Igor Alves",
+    place: "Rio Paranaíba, Brazil",
+    github: "iguit0"
+  },
+  { 
     name : "Taylor L.",
     place : "Boise, USA",
     github : "tleija"
