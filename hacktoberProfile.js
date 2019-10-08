@@ -669,4 +669,9 @@ var profiles = [
     place: "Chonburi, Thailand",
     github: "mugenboat",
   },
+  {
+    name : "pittyi2nd",
+    place : "Hyogo, Japan",
+    github : "pittyi2nd"
+  }
 ];
