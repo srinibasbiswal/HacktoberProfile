@@ -1,5 +1,10 @@
 var profiles = [
   {
+    name: "Berk Erol",
+    place: "Istanbul, Turkey",
+    github: "berkerol"
+  },
+  {
     name: "Srinibas Biswal",
     place: "Bhubaneswar, India",
     github: "srinibasbiswal",
