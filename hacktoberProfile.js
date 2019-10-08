@@ -643,6 +643,11 @@ var profiles = [
     name : "Akshay Chopra",
     place : "Nagpur, India",
     github : "akshaychopra96"
+  },
+  {
+    name : "Luis Castro",
+    place : "Colima, México",
+    github : "ferdox2"
   }
  
 ];
