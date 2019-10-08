@@ -615,8 +615,24 @@ var profiles = [
     github : "brunandrade"
   },
   {
+    name : "Huzaifa Ahmed",
+    place : "Karachi, Pakistan",
+    github : "Huzaifaahmed20"
+  },
+  {
+    name : "Javed Ali",
+    place: "Allahabad, India",
+    github : "orichamaru"
+  },
+  {
+    name: "André Vargas",
+    place: "Brusque, Brazil",
+    github: "andrevargas",
+  },
+  {
     name : "Tarique Nasar",
     place : "Jharkhand, India",
     github : "NasarTarique"
-  },
+  }
+ 
 ];
