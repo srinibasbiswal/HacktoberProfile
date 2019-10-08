@@ -322,72 +322,72 @@ var profiles = [
   {
     name: "Joel Yek",
     place: "Kuala Lumpur, Malaysia",
-    github: "joevo2"
+    github: "joevo2",
   },
   {
     name: "Akanksha Pattnaik",
     place: "Hyderabad, India",
-    github: "akapattnaik"
+    github: "akapattnaik",
   },
   {
     name: "Miguel",
     place: "Stuttgart, Germany",
-    github: "marxlaml"
+    github: "marxlaml",
   },
   {
     name: "Ghazi",
     place: "Aceh, Indonesia",
-    github: "ghazimuharam"
+    github: "ghazimuharam",
   },
   {
     name: "Diogo Almeida",
     place: "Porto Alegre, Brasil",
-    github: "TriGaucho"
+    github: "TriGaucho",
   },
   {
     name: "Sartaj Roshan",
     place: "Kerala,India",
-    github: "sartajroshan"
+    github: "sartajroshan",
   },
   {
     name: "Arpit Bhattar",
     place: "Gujarat, India",
-    github: "aptbhattar"
+    github: "aptbhattar",
   },
   {
     name: "Artem Goncharenko",
     place: "Kharkiv, Ukraine",
-    github: "artem3"
+    github: "artem3",
   },
   {
     name: "Leon Koop",
     place: "Magdeburg, Germany",
-    github: "LeonK-UnnaturalD"
+    github: "LeonK-UnnaturalD",
   },
   {
     name: "Júlia Maschion",
     place: "São Paulo, Brazil",
-    github: "jumaschion"
+    github: "jumaschion",
   },
   {
     name: "MrEvertide",
     place: "Québec, Canada",
-    github: "MrEvertide"
+    github: "MrEvertide",
   },
   {
     name: "Pocholo Recto",
     place: "Philippines",
-    github: "cholorecto"
+    github: "cholorecto",
   },
   {
     name: "Daniel Duhaylungsod",
     place: "Davao City, Philippines",
-    github: "danieldee9"
+    github: "danieldee9",
   },
   {
     name: "Glevinzon Dapal",
     place: "Davao, Philippines",
-    github: "glevinzon"
+    github: "glevinzon",
   },
   {
     name: "Abhijit Parida",
@@ -397,221 +397,226 @@ var profiles = [
   {
     name: "Sareesh V",
     place: "Texas, United States",
-    github: "sareeshv"
+    github: "sareeshv",
   },
   {
     name: "Rahi",
     place: "Arizona, USA",
-    github: "rahisulhaque"
+    github: "rahisulhaque",
   },
   {
     name: "Fiqar Aprialim",
     place: "Makassar, Indonesia",
-    github: "lbexp"
+    github: "lbexp",
   },
   {
     name: "Oscar Canales",
     place: "Laredo, United States",
-    github: "JayChannels"
+    github: "JayChannels",
   },
   {
     name: "Josh",
     place: "Berlin, Germany",
-    github: "Jxshvh"
+    github: "Jxshvh",
   },
   {
     name: "AMAN JAIN",
     place: "Noida, India",
-    github: "amannayak0007"
+    github: "amannayak0007",
   },
   {
     name: "M Faisal Akbar",
     place: "Bandung, Indonesia",
-    github: "mhdrare"
+    github: "mhdrare",
   },
   {
     name: "Azriz Haziq Jasni",
     place: "Kuala Lumpur, Malaysia",
-    github: "AzrizHaziq"
+    github: "AzrizHaziq",
   },
   {
     name: "Nilesh D",
     place: "Chennai, India",
-    github: "Nilesh2000"
+    github: "Nilesh2000",
   },
   {
-    name : "Aman Kumar Soni",
-    place : "Jalandhar, India",
-    github : "computerwala"
+    name: "Aman Kumar Soni",
+    place: "Jalandhar, India",
+    github: "computerwala",
   },
   {
-    name:"Rachit Pahwa",
-    place:"Indore,India",
-    github:"rachitpahwa08"
+    name: "Rachit Pahwa",
+    place: "Indore,India",
+    github: "rachitpahwa08",
   },
   {
     name: "Samuel E",
     place: "Nevada, USA",
-    github: "RareGamer"
+    github: "RareGamer",
   },
   {
     name: "Fadhil Amadan",
     place: "Surabaya, Indonesia",
-    github: "Fadhilamadan"
+    github: "Fadhilamadan",
   },
   {
     name: "Jayant Kumar",
     place: "Hyderabad, India",
-    github: "learnerjay"
+    github: "learnerjay",
   },
   {
     name: "Steve L",
     place: "Houston, United States",
-    github: "SteveLee1287"
+    github: "SteveLee1287",
   },
   {
     name: "Daniel Barros",
     place: "Perth, Australia",
-    github: "barrosdaniel"
+    github: "barrosdaniel",
   },
   {
     name: "Pawan Gorai",
     place: "Bhubaneswar, India",
-    github: "Pawan0411"
+    github: "Pawan0411",
   },
   {
     name: "Thomas K.",
     place: "Münster, Germany",
-    github: "kickbutts"
+    github: "kickbutts",
   },
   {
     name: "Akash Kumar",
     place: "Hamirpur, India",
-    github: "ashky23"
+    github: "ashky23",
   },
   {
     name: "Sarah Dominguez Perea",
     place: "Philippines",
-    github: "sarahperea"
+    github: "sarahperea",
   },
   {
-    name : "Valeyard1",
-    place : "Sao Paulo, Brazil",
-    github : "Valeyard1"
+    name: "Valeyard1",
+    place: "Sao Paulo, Brazil",
+    github: "Valeyard1",
   },
   {
     name: "Akshay Kumar",
     place: "Ludhiana, India",
-    github: "Rajputakshay"
+    github: "Rajputakshay",
   },
   {
     name: "Dilshan Ramesh",
     place: "Homagama, Sri Lanaka",
-    github: "dilshan97"
+    github: "dilshan97",
   },
   {
-    name : "Benny Ogidan",
-    place : "Lagos, Nigeria",
-    github : "benfluleck"
+    name: "Benny Ogidan",
+    place: "Lagos, Nigeria",
+    github: "benfluleck",
   },
   {
     name: "Christopher Johnson",
     place: "Florida, USA",
-    github: "CLJohnson088"
+    github: "CLJohnson088",
   },
   {
     name: "Lauren Bice",
     place: "Burleson, United States",
-    github: "laurenebice"
+    github: "laurenebice",
   },
   {
     name: "Rusty",
     place: "Washington DC, USA",
-    github: "heyimrusty"
+    github: "heyimrusty",
   },
   {
     name: "Abdurahman",
     place: "Semarang, Indonesia",
-    github: "abdurahmanrizal"
+    github: "abdurahmanrizal",
   },
   {
     name: "Mohd Izzudin",
     place: "Kuala Lumpur, Malaysia",
-    github: "mohdizzudin"
+    github: "mohdizzudin",
   },
   {
     name: "Kosasih Wahid Pramana",
     place: "Indonesia",
-    github: "criedchild"
+    github: "criedchild",
   },
   {
     name: "Duncan Teegelaar",
     place: "Rotterdam, The Netherlands",
-    github: "DuncanTeege"
+    github: "DuncanTeege",
   },
   {
     name: "Shaik saifuddin",
     place: "Hyderabad, India",
-    github: "sksaifuddin"
+    github: "sksaifuddin",
   },
   {
     name: "Theressa Marie Tan",
     place: "Philippines",
-    github: "tmttan03"  
+    github: "tmttan03",
   },
   {
     name: "Sweta Snigdha Sahoo",
     place: "Bhubaneswar, India",
-    github: "swetasahoo29"
+    github: "swetasahoo29",
   },
   {
     name: "Dilek Tas Uzulmez",
     place: "Corum, Turkey",
-    github: "dilekuzulmez"
+    github: "dilekuzulmez",
   },
   {
     name: "Igor Alves",
     place: "Rio Paranaíba, Brazil",
-    github: "iguit0"
+    github: "iguit0",
   },
-  { 
-    name : "Taylor L.",
-    place : "Boise, USA",
-    github : "tleija"
+  {
+    name: "Taylor L.",
+    place: "Boise, USA",
+    github: "tleija",
   },
   {
     name: "João Gabriel Joaquim",
     place: "Brazil",
-    github: "jgdj01"
+    github: "jgdj01",
   },
-  {    
-    name : "Franciele Portugal",
-    place : "Salvador, Brazil",
-    github : "francieleportugal"
+  {
+    name: "Franciele Portugal",
+    place: "Salvador, Brazil",
+    github: "francieleportugal",
   },
   {
     name: "Daniel Aguirre Linares",
     place: "Morelia, México",
-    github: "DanielAguirre"
+    github: "DanielAguirre",
   },
   {
-    name : "Santosh Lakshman",
-    place : "Hyderabad, India",
-    github : "luckymurari"
-   },  
-   {
-    name : "Tarannum Ara",
-    place : "Kolkata, India",
-    github : "giTan7"
+    name: "Santosh Lakshman",
+    place: "Hyderabad, India",
+    github: "luckymurari",
   },
   {
-    name : "Dirk Soentjens",
-    place : "Düsseldorf, Germany",
-    github : "tampert"
+    name: "Tarannum Ara",
+    place: "Kolkata, India",
+    github: "giTan7",
   },
   {
-    name : "Bruna Andrade",
-    place : "Salvador, Brasil",
-    github : "brunandrade"
-  }
+    name: "Dirk Soentjens",
+    place: "Düsseldorf, Germany",
+    github: "tampert",
+  },
+  {
+    name: "Bruna Andrade",
+    place: "Salvador, Brasil",
+    github: "brunandrade",
+  },
+  {
+    name: "Wolfgang Kreminger",
+    place: "Vienna, Austria",
+    github: "r4pt0s",
+  },
 ];
