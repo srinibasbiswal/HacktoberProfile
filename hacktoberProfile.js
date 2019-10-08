@@ -618,5 +618,10 @@ var profiles = [
     name : "Huzaifa Ahmed",
     place : "Karachi, Pakistan",
     github : "Huzaifaahmed20"
+  },
+  {
+    name : "Javed Ali",
+    place: "Allahabad, India",
+    github : "orichamaru"
   }
 ];
