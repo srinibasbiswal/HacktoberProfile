@@ -674,6 +674,11 @@ var profiles = [
     place: "Chonburi, Thailand",
     github: "mugenboat",
   },
+   {
+    name: "Susanka Majumder",
+    place: "Agartala, India",
+    github: "susanka068",
+  },
   {
     name : "pittyi2nd",
     place : "Hyogo, Japan",
