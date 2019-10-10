@@ -517,7 +517,7 @@ var profiles = [
   {
     name: "Hritik Gupta",
     place: "Mandi, India",
-    github: "hritikgupta"
+    github: "hritikgupta",
   },
   {
     name: "Christopher Johnson",
@@ -620,19 +620,19 @@ var profiles = [
     github: "brunandrade",
   },
   {
-    name : "Bruna Andrade",
-    place : "Salvador, Brasil",
-    github : "brunandrade"
+    name: "Bruna Andrade",
+    place: "Salvador, Brasil",
+    github: "brunandrade",
   },
   {
-    name : "Huzaifa Ahmed",
-    place : "Karachi, Pakistan",
-    github : "Huzaifaahmed20"
+    name: "Huzaifa Ahmed",
+    place: "Karachi, Pakistan",
+    github: "Huzaifaahmed20",
   },
   {
-    name : "Javed Ali",
+    name: "Javed Ali",
     place: "Allahabad, India",
-    github : "orichamaru"
+    github: "orichamaru",
   },
   {
     name: "André Vargas",
@@ -640,34 +640,34 @@ var profiles = [
     github: "andrevargas",
   },
   {
-    name : "Tarique Nasar",
-    place : "Jharkhand, India",
-    github : "NasarTarique"
+    name: "Tarique Nasar",
+    place: "Jharkhand, India",
+    github: "NasarTarique",
   },
   {
-    name : "Suvojit Barick",
-    place : "Bhubaneswar, India",
-    github : "SuvojitBarick"
+    name: "Suvojit Barick",
+    place: "Bhubaneswar, India",
+    github: "SuvojitBarick",
   },
   {
-    name : "Akshay Chopra",
-    place : "Nagpur, India",
-    github : "akshaychopra96"
+    name: "Akshay Chopra",
+    place: "Nagpur, India",
+    github: "akshaychopra96",
   },
   {
-    name : "Luis Castro",
-    place : "Colima, México",
-    github : "ferdox2"
+    name: "Luis Castro",
+    place: "Colima, México",
+    github: "ferdox2",
   },
   {
     name: "Shubham Panth",
     place: "Stockholm, Sweden",
-    github: "NOVA52"
+    github: "NOVA52",
   },
   {
     name: "Paulo Raimundi",
     place: "Brusque, Brazil",
-    github: "anologicon"
+    github: "anologicon",
   },
   {
     name: "Thanate Janyaswadi",
@@ -675,8 +675,13 @@ var profiles = [
     github: "mugenboat",
   },
   {
-    name : "pittyi2nd",
-    place : "Hyogo, Japan",
-    github : "pittyi2nd"
-  }
+    name: "pittyi2nd",
+    place: "Hyogo, Japan",
+    github: "pittyi2nd",
+  },
+  {
+    name: "Maki",
+    place: "Tenerife, Spain",
+    github: "makitsune",
+  },
 ];
