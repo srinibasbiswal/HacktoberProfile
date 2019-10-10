@@ -100,11 +100,6 @@ var profiles = [
     github: "Frewacom",
   },
   {
-    name: "Yash Gupta",
-    place: "Raipur(C.G), India",
-    github: "yash9685",
-  },
-  {
     name: "William Palacios",
     place: "Managua, Nicaragua",
     github: "wpalacios",
@@ -683,5 +678,10 @@ var profiles = [
     name : "pittyi2nd",
     place : "Hyogo, Japan",
     github : "pittyi2nd"
+  },
+  {
+    name: "Yash Gupta",
+    place: "Raipur(C.G), India",
+    github: "yash9685",
   }
 ];
