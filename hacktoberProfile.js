@@ -60,6 +60,11 @@ var profiles = [
     github: "gethari",
   },
   {
+    name: "Tanmayi Patibandla",
+    place: "Andhra Pradesh, India",
+    github: "Tanmayi03",
+  },
+  {
     name: "Mehul Bhutalia",
     place: "Gwalior, India",
     github: "mehul02",
