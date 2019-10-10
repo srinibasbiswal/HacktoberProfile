@@ -175,6 +175,11 @@ var profiles = [
     github: "phuonghoang713",
   },
   {
+    name: "Shailza",
+    place: "Delhi, India",
+    github: "shailzaa",
+  },
+  {
     name: "Sergi Oca",
     place: "Barcelona, Spain",
     github: "SergiOca87",
