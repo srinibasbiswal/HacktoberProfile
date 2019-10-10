@@ -679,4 +679,9 @@ var profiles = [
     place : "Hyogo, Japan",
     github : "pittyi2nd"
   }
+   {
+    name : "Adarsh Padhi",
+    place : "Puri, Odisha",
+    github : "adarsh1405"
+  }
 ];
