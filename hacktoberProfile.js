@@ -625,6 +625,10 @@ var profiles = [
     github : "brunandrade"
   },
   {
+    name : "Shaun O'Neill",
+    place : "Dublin, Ireland",
+    github : "realShaunoneill"
+  },
     name : "Huzaifa Ahmed",
     place : "Karachi, Pakistan",
     github : "Huzaifaahmed20"
