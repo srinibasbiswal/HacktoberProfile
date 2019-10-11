@@ -683,5 +683,5 @@ var profiles = [
     name : "vishal marhatta",
     place : "Pune, India",
     github : "Marhatta"
-  }  
+  } 
 ];
