@@ -255,6 +255,11 @@ var profiles = [
     github: "Roqak",
   },
   {
+    name: "Sahil Manchanda",
+    place: "New Delhi, India",
+    github: "sahilmanchanda1999",
+  },
+  {
     name: "Jaye N.",
     place: "New York, United States",
     github: "atomikjaye",
