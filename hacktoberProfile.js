@@ -680,8 +680,8 @@ var profiles = [
     github : "pittyi2nd"
   },
   {
-    name:"Karthik Nannepamula",
+    name: "Karthik Nannepamula",
     place: "Erode",
-    github:"KarthikNannepamula", 
+    github: "KarthikNannepamula", 
   },
 ];
