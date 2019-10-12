@@ -19,6 +19,11 @@ var profiles = [
     place: "Bacolod, Philippines",
     github: "samcode23",
   },
+ {
+    name: "Sagar Yadav",
+    place: "Chennai, India",
+    github: "itsnotsagar",
+  },
   {
     name: "Aisha Aqeel",
     place: "Karachi, Pakistan",
