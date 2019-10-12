@@ -682,7 +682,6 @@ var profiles = [
   {
     name:"Karthik Nannepamula",
     place: "Erode",
-    github:"KarthikNannepamula",
-   
-  }
+    github:"KarthikNannepamula", 
+  },
 ];
