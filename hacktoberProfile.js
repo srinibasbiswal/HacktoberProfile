@@ -669,6 +669,11 @@ var profiles = [
     place: "Brusque, Brazil",
     github: "anologicon"
   },
+   {
+    name : "Kunal Kumar Shrivastava",
+    place : "Jabalpur, India",
+    github : "Kunalkshrivastava"
+  },
   {
     name: "Thanate Janyaswadi",
     place: "Chonburi, Thailand",
