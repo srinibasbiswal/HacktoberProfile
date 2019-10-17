@@ -105,6 +105,11 @@ var profiles = [
     github: "wpalacios",
   },
   {
+    name: "Wisawa Ploypradub",
+    place: "Bangkok, Thailand",
+    github: "romeos25",
+  },
+  {
     name: "Adrian Mejias",
     place: "Harker Heights, United States",
     github: "adrianmejias",
