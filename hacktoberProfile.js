@@ -15,6 +15,11 @@ var profiles = [
     github: "csleong98",
   },
   {
+    name : "Marisa Wadsworth",
+    place : "Tauranga, New Zealand",
+    github : "marisawadsworth"
+  },
+  {
     name: "Kee Magbanua",
     place: "Bacolod, Philippines",
     github: "samcode23",
