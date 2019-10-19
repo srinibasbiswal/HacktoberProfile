@@ -654,6 +654,11 @@ var profiles = [
     place : "Nagpur, India",
     github : "akshaychopra96"
   },
+    {
+    name : "Cristian",
+    place : "Blumenau, Brazil",
+    github : "cencristian"
+  }
   {
     name : "Luis Castro",
     place : "Colima, México",
