@@ -1,4 +1,5 @@
-# Hacktoberprofile 
+# Hacktoberprofile
+
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/srinibasbiswal/HacktoberProfile?color=green) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/srinibasbiswal/HacktoberProfile) ![GitHub contributors](https://img.shields.io/github/contributors-anon/srinibasbiswal/HacktoberProfile)
 
 Happy Hacktoberfest! Hacktoberfest is back :fire: 
@@ -19,7 +20,7 @@ repository and clone your forked repository.
 
 In your forked repository, edit `hacktoberProfile.js` and add your name, place and github userName to the bottom of the file using this format:
 
-```
+```json
   {
     name : "Full Name",
     place : "City, Country",
@@ -27,7 +28,7 @@ In your forked repository, edit `hacktoberProfile.js` and add your name, place a
   }
 ```
 
-### Step 3 
+### Step 3
 
 Commit your changes and submit a pull request! After your pull request gets accepted, you will be able to see your very own profile on the [HacktoberProfile](https://srinibasbiswal.github.io/HacktoberProfile/)!
 
