@@ -5,6 +5,11 @@ var profiles = [
     github: "srinibasbiswal",
   },
   {
+    name: "PSIBABA",
+    place: "Kolkata, India",
+    github: "Psibaba",
+  },
+  {
     name: "Wisnu Febriadi",
     place: "Tanjungpinang, Indonesia",
     github: "wfebriad",
